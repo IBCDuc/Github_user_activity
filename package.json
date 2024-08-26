@@ -1,0 +1,22 @@
+{
+  "name": "github_user_activities_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IBCDuc/Github_user_activity.git"
+  },
+  "bin": {
+    "github-activity": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IBCDuc/Github_user_activity/issues"
+  },
+  "homepage": "https://github.com/IBCDuc/Github_user_activity#readme"
+}
